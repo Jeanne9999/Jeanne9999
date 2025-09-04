@@ -21,7 +21,7 @@
 ## 🌐 Projects
 
 ### 1. **Business Website**
-Ιστοσελίδα παρουσίασης εταιρείας με responsive σχεδιασμό και βελτιστοποίηση SEO. 
+Ιστοσελίδα παρουσίασης εταιρείας με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένη σε Wordpress.
 ![Business Website Screenshot](./assets/scr-kp.jpg) 
 🔗 [Live Demo](https://www.kingpools.gr)
 
