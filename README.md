@@ -22,7 +22,7 @@
 
 ### 1. **Business Website**
 Ιστοσελίδα παρουσίασης εταιρείας με responsive σχεδιασμό και βελτιστοποίηση SEO. 
-![Business Website Screenshot](./assets/scr-kp.jpg)  
+![Business Website Screenshot](./assets/scr-kp.jpg) 
 🔗 [Live Demo](https://www.kingpools.gr)
 
 ---
