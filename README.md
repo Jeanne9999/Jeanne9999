@@ -20,14 +20,22 @@
 
 ## 🌐 Projects
 
-### 1. **Business Website**
-Ιστοσελίδα παρουσίασης εταιρείας με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένη σε Wordpress.
+### 1. **Business Websites**
+
+Ιστοσελίδες παρουσίασης εταιρειών με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένη σε Wordpress.
+
+Kingpools
 ![Business Website Screenshot](./assets/scr-kp.jpg) 
 🔗 [Live Demo](https://www.kingpools.gr)
+
+Coverance
+![Business Website Screenshot](./assets/scr-cov.jpg) 
+🔗 [Live Demo](https://www.coverance.gr)
 
 ---
 
 ### 2. **Figma to Website**
+
 Μετατροπή Figma design σε λειτουργικό site με HTML, Tailwind CSS & JavaScript.  
 ![Figma Website Screenshot](./assets/figma-preview.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/figma-site/) | 💻 [Repository](https://github.com/Jeanne9999/figma-site)
@@ -35,6 +43,7 @@
 ---
 
 ### 3. **Mini App – Random Quotes**
+
 Μικρή εφαρμογή σε JavaScript που εμφανίζει **τυχαία αποφθέγματα** με το πάτημα ενός κουμπιού.  
 ![Random Quotes App Screenshot](./assets/scr-quotes.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/quote-generator/)) | 💻 [Repository](https://github.com/Jeanne9999/quote-generator)
