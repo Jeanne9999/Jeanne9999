@@ -22,7 +22,7 @@
 
 ### 1. **Business Websites**
 
-Ιστοσελίδες παρουσίασης εταιρειών με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένη σε Wordpress.
+Ιστοσελίδες παρουσίασης εταιρειών με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένες σε Wordpress.
 
 Kingpools
 ![Business Website Screenshot](./assets/scr-kp.jpg) 
