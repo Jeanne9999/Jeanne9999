@@ -36,7 +36,7 @@ Coverance
 
 ### 2. **Figma to Website**
 
-Μετατροπή Figma design σε λειτουργικό site με HTML, Tailwind CSS & JavaScript.  
+Μετατροπή Figma design σε λειτουργικό site με HTML, Tailwind CSS & JavaScript στα πλαίσια του CodeArena.
 ![Figma Website Screenshot](./assets/figma-preview.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/figma-site/) | 💻 [Repository](https://github.com/Jeanne9999/figma-site)
 
