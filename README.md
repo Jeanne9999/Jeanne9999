@@ -1,11 +1,10 @@
-# 👋 Γεια σας, είμαι η Ιωάννα!
+👋 Hello, I’m Ioanna
 
-Είμαι **Junior Web Developer** με γνώσεις σε **HTML, CSS, Tailwind CSS, JavaScript, PHP, Python, WordPress και MySQL**.  
-Μου αρέσει να δημιουργώ **responsive, γρήγορες και καλαίσθητες ιστοσελίδες**.
+I am a Junior Web Developer with expertise in HTML, CSS, Tailwind CSS, JavaScript, PHP, Python, WordPress, and MySQL.
+I specialize in building responsive, fast, and visually appealing websites that deliver excellent user experiences and meet business goals.
 
----
 
-## 🛠️ Τεχνολογίες & Εργαλεία
+🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
@@ -14,45 +13,41 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
 
----
 
-## 🌐 Projects
+🌐 Selected Projects
+1. Business Websites
 
-### 1. **Business Websites**
+Developed corporate websites with responsive design and SEO optimization using WordPress.
 
-Ιστοσελίδες παρουσίασης εταιρειών με responsive σχεδιασμό και βελτιστοποίηση SEO κατασκευασμένες σε Wordpress.
+Kingpools.gr
 
-Kingpools
 ![Business Website Screenshot](./assets/scr-kp.jpg) 
 🔗 [Live Demo](https://www.kingpools.gr)
 
-Coverance
+Coverance.gr
+
 ![Business Website Screenshot](./assets/scr-cov.jpg) 
 🔗 [Live Demo](https://www.coverance.gr)
 
----
 
-### 2. **Figma to Website**
+2. Figma to Website project
 
-Μετατροπή Figma design σε λειτουργικό site με HTML, Tailwind CSS & JavaScript στα πλαίσια του CodeArena.
+Converted a Figma design into a fully functional website using HTML, Tailwind CSS, and JavaScript.
+
 ![Figma Website Screenshot](./assets/figma-preview.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/figma-site/) | 💻 [Repository](https://github.com/Jeanne9999/figma-site)
 
----
 
-### 3. **Mini App – Random Quotes**
+3. Mini App – Random Quotes
 
-Μικρή εφαρμογή σε JavaScript που εμφανίζει **τυχαία αποφθέγματα** με το πάτημα ενός κουμπιού.  
+Developed a JavaScript app that displays random quotes with a click of a button.
+
 ![Random Quotes App Screenshot](./assets/scr-quotes.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/quote-generator/)) | 💻 [Repository](https://github.com/Jeanne9999/quote-generator)
 
----
 
-## 📫 Επικοινωνία
-
+📫 Contact
 - [LinkedIn](https://linkedin.com/in/ioanna-kotronaki-97403b255)  
 - [Email](mailto:i.kotronaki@gmail.com)
-
----
