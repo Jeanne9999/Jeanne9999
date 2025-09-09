@@ -48,7 +48,7 @@ Converted a Figma design into a fully functional website using HTML, Tailwind CS
 
 Developed a JavaScript app that displays random quotes with a click of a button.
 
-![Random Quotes App Screenshot](./assets/scr-quotes.jpg)  
+![Random Quotes App Screenshot](./assets/preview.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/quote-generator/)) | 💻 [Repository](https://github.com/Jeanne9999/quote-generator)
 
 
