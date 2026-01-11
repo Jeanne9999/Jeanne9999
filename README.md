@@ -18,6 +18,9 @@ I specialize in building responsive, fast, and visually appealing websites that 
 
 ### Learning  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
 
 
 ## 🌐 Selected Projects
