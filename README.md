@@ -47,7 +47,7 @@ Converted a Figma design into a fully functional website using HTML, Tailwind CS
 
 Developed a JavaScript app that lets the user insert his name and birth date and displays a message with his/her exact age.
 
-![Age Calculator App Screenshot](./assets/Screenshot_ac.jpg)  
+![Age Calculator App Screenshot](./assets/Screenshot_1.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/sev-data-input-project/) | 💻 [Repository](https://github.com/Jeanne9999/sev-data-input-project)
 
 
