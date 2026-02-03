@@ -1,7 +1,7 @@
 # 👋 Hello, I’m Ioanna
 
-I am a Junior Front-End Developer with expertise in HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL and WordPress.
-I specialize in building responsive, fast, and visually appealing websites and apps that deliver excellent user experiences and meet business goals.
+I am a Junior Web Developer with expertise in HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL and WordPress.
+I specialize in building responsive, fast, and visually appealing websites and apps that deliver excellent user experience and meet business goals.
 
 
 ## 🛠️ Technologies & Tools
