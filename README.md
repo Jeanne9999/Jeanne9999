@@ -30,7 +30,15 @@ Developed a full-stack web application for tracking tasks using Spring Boot, Rea
 💻 [Back-End Repository](https://github.com/Jeanne9999/task-tracker-backend.git)
 
 
-### 2. Figma to Website project
+### 2. Mini App – Age Calculator
+
+Developed a JavaScript app that lets the user insert his name and birth date and displays a message with his/her exact age.
+
+![Age Calculator App Screenshot](./assets/Screenshot_1.jpg)  
+💻 [Repository](https://github.com/Jeanne9999/sev-data-input-project)
+
+
+### 3. Figma to Website project
 
 Converted a Figma design into a fully functional website using HTML, Tailwind CSS, and JavaScript.
 
@@ -38,7 +46,7 @@ Converted a Figma design into a fully functional website using HTML, Tailwind CS
 🔗 [Live Demo](https://jeanne9999.github.io/figma-site/) | 💻 [Repository](https://github.com/Jeanne9999/figma-site)
 
 
-### 3. Business Wordpress Websites
+### 4. Business Wordpress Websites
 
 Develop corporate websites with responsive design and SEO optimization using WordPress.
 
@@ -46,14 +54,6 @@ Develop corporate websites with responsive design and SEO optimization using Wor
 
 ![Business Website Screenshot](./assets/scr-kp.jpg) 
 🔗 [Live Demo](https://www.kingpools.gr)
-
-
-### 4. Mini App – Age Calculator
-
-Developed a JavaScript app that lets the user insert his name and birth date and displays a message with his/her exact age.
-
-![Age Calculator App Screenshot](./assets/Screenshot_1.jpg)  
-💻 [Repository](https://github.com/Jeanne9999/sev-data-input-project)
 
 
 ### 5. Mini App – Random Quotes
