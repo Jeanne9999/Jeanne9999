@@ -1,6 +1,6 @@
 # 👋 Hello, I’m Ioanna
 
-I am a Junior Web Developer with expertise in HTML, CSS, JavaScript, React, Java, Spring Boot, MySQL and WordPress.
+I am a Junior Software Developer with expertise in modern technologies such as Tailwind CSS, React, Spring Boot, MySQL and WordPress.
 I specialize in building responsive, fast, and visually appealing websites and apps that deliver excellent user experience and meet business goals.
 
 
