@@ -20,19 +20,14 @@ I specialize in building responsive, fast, and visually appealing websites and a
 
 
 ## 🌐 Selected Projects
-### 1. Business Websites
 
-Developed corporate websites with responsive design and SEO optimization using WordPress.
+### 1. Task Tracker App
 
-#### Kingpools.gr
+Developed a full-stack web application for tracking tasks using Spring Boot, React and SQL.
 
-![Business Website Screenshot](./assets/scr-kp.jpg) 
-🔗 [Live Demo](https://www.kingpools.gr)
-
-#### Coverance.gr
-
-![Business Website Screenshot](./assets/scr-cov.jpg) 
-🔗 [Live Demo](https://www.coverance.gr)
+![Application Screenshot](./assets/dashboard.png)  
+💻 [Front-End Repository](https://github.com/Jeanne9999/task-tracker-frontend.git)
+💻 [Back-End Repository](https://github.com/Jeanne9999/task-tracker-backend.git)
 
 
 ### 2. Figma to Website project
@@ -43,21 +38,30 @@ Converted a Figma design into a fully functional website using HTML, Tailwind CS
 🔗 [Live Demo](https://jeanne9999.github.io/figma-site/) | 💻 [Repository](https://github.com/Jeanne9999/figma-site)
 
 
-### 3. Mini App – Age Calculator
+### 3. Business Wordpress Websites
+
+Develop corporate websites with responsive design and SEO optimization using WordPress.
+
+#### Kingpools.gr
+
+![Business Website Screenshot](./assets/scr-kp.jpg) 
+🔗 [Live Demo](https://www.kingpools.gr)
+
+
+### 4. Mini App – Age Calculator
 
 Developed a JavaScript app that lets the user insert his name and birth date and displays a message with his/her exact age.
 
 ![Age Calculator App Screenshot](./assets/Screenshot_1.jpg)  
-🔗 [Live Demo](https://jeanne9999.github.io/sev-data-input-project/) | 💻 [Repository](https://github.com/Jeanne9999/sev-data-input-project)
+💻 [Repository](https://github.com/Jeanne9999/sev-data-input-project)
 
 
-### 4. Mini App – Random Quotes
+### 5. Mini App – Random Quotes
 
 Developed a JavaScript app that displays random quotes with a click of a button.
 
 ![Random Quotes App Screenshot](./assets/scr-quotes.jpg)  
 🔗 [Live Demo](https://jeanne9999.github.io/quote-generator/) | 💻 [Repository](https://github.com/Jeanne9999/quote-generator)
-
 
 
 ## 📫 Contact
